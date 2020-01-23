@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------------------------------------------------------------
-# Function Library to Manage Pimberly Data - Test File in Git Repo
+# Function Library to Manage Pimberly Data - Test File in Git Repo - New Amends
 #-----------------------------------------------------------------------------------------------------------------------------------
 
 # get.channel.data (channel.token, pim.env)
